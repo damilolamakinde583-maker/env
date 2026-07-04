@@ -1,0 +1,12 @@
+# Required
+BOT_TOKEN=your_bot_token_here
+
+# Optional - For AI Image Generation
+STABILITY_API_KEY=your_stability_ai_key_here
+OPENAI_API_KEY=your_openai_key_here
+
+# Optional - For Custom URL Shortening
+BITLY_API_KEY=your_bitly_key_here
+
+# Logging
+LOG_LEVEL=INFO
